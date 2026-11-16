@@ -1,4 +1,4 @@
-# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+<img width="837" height="446" alt="image" src="https://github.com/user-attachments/assets/871d767c-1e91-44d8-a183-b911ccfd0c22" /># Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -43,13 +43,19 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
-<img width="838" height="430" alt="image" src="https://github.com/user-attachments/assets/a8b25575-e896-486d-8dd7-d5b382eef451" />
-<img width="839" height="431" alt="image" src="https://github.com/user-attachments/assets/c3c31c16-772e-4ea6-9941-a84f0adcac53" />
-<img width="837" height="430" alt="image" src="https://github.com/user-attachments/assets/c1a209aa-4bc2-45c0-b738-134900a8de32" />
-<img width="837" height="433" alt="image" src="https://github.com/user-attachments/assets/b9d93c7a-88c7-4447-855f-676428c8317f" />
-<img width="835" height="438" alt="image" src="https://github.com/user-attachments/assets/b5ed64fd-e21f-4585-b8f9-7329fa6e1bc2" />
-<img width="836" height="406" alt="image" src="https://github.com/user-attachments/assets/3c85a28d-6816-4e5c-99ef-5fb9ec5fd58c" />
-<img width="842" height="364" alt="image" src="https://github.com/user-attachments/assets/4e378876-fcbb-49cf-83b2-b3c4196a3ebc" />
+<img width="1598" height="839" alt="image" src="https://github.com/user-attachments/assets/c4498ed3-07b1-469b-aff0-5db69fc65efb" />
+<img width="1600" height="834" alt="image" src="https://github.com/user-attachments/assets/4b952af4-7019-43cd-9314-52becbfcad86" />
+<img width="1600" height="687" alt="image" src="https://github.com/user-attachments/assets/2f730137-c98f-403f-87b2-6c3ff3f9b842" />
+<img width="1600" height="734" alt="image" src="https://github.com/user-attachments/assets/51476119-5014-4b68-b95b-5df518a8b394" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/d536c865-6bf0-40e3-a763-3f3e72e847bd" />
+<img width="594" height="270" alt="image" src="https://github.com/user-attachments/assets/15cfbb94-ee7a-4192-b8e0-c5dbaff0c33f" />
+<img width="838" height="362" alt="image" src="https://github.com/user-attachments/assets/67f86389-f58c-4707-830c-ea1e71764590" />
+
+
+
+
+
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
